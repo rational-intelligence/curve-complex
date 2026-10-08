@@ -146,4 +146,4 @@ proof language and library. See [THIRD_PARTY.md](THIRD_PARTY.md) for the vendore
 Schoenflies revision, license, and dependency attribution.
 
 To cite this formalization, refer to *Curve complex formalization*, specifying
-the revision used: [EonMath/curve-complex](https://github.com/EonMath/curve-complex/).
+the revision used: [rational-intelligence/curve-complex](https://github.com/rational-intelligence/curve-complex/).
